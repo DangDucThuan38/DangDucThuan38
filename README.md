@@ -21,8 +21,8 @@
   <a href="" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+  <a href="https://www.instagram.com/dangthuan5/" alt="" target="_blank" >
+   <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
   </a>
   <a href="dangducthuan999@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
